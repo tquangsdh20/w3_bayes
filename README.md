@@ -110,7 +110,7 @@ plt.show()
 
 
 <p align="center">
-<img src="/.github/output_5_1.png">
+<img src="/.github/output_5.png">
 </p>
 
 

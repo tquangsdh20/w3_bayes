@@ -91,7 +91,7 @@ dat.head()
 
 
 
-## Distribution types of specie plot
+### Distribution types of specie plot
 
 
 ```python
@@ -821,11 +821,11 @@ print(f'The number of features: {X_test.shape[1]}')
 
 ### Descrition about dataset
 
+<a href="https://www.kaggle.com/c/titanic/data">https://www.kaggle.com/c/titanic/data</a>
 
+### Pre-Processing Data
 
-## Pre-Processing Data
-
-### Catacorial convert to numberic
+#### Catacorial convert to numberic
 
 
 ```python

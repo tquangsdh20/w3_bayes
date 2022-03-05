@@ -1035,7 +1035,7 @@ plt.show()
 
 
 <p align="center">
-<img src="./.github/output_37_1.png">  
+<img src="/.github/output_37_1.png">  
 </p> 
 
 
@@ -1048,8 +1048,8 @@ plt.show()
 ```
 
 
-<p>
-<img src="./.github/output_38_0.png"> 
+<p align="center">
+<img src="/.github/output_38_0.png"> 
 </p>  
 
 
